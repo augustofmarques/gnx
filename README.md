@@ -21,3 +21,11 @@ $ git clone https://github.com/slackjeff/make-debian-live
 $ cd make-debian-live
 # bash make-kassandra.sh
 ```
+A iso sera gerada no diretório GENERATE-LIVE-DIR/. Você pode alterar, por exemplo, se deseja trocar para gerar a configuração e ISO final com o nome de (meu-debian) altere a variável DIR_CREATE_LIVE:
+```
+# Antes
+export DIR_CREATE_LIVE="${WORKDIR}/GENERATE-LIVE-DIR"
+
+# Depois
+export DIR_CREATE_LIVE="${WORKDIR}/meu-debian"
+```
