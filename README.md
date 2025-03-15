@@ -14,3 +14,10 @@ totalmente utilizável, com live-cd e com instalador calamares incluso.
 ## Nota Calamares
 Por ser configurações do calamares personalizadas e testado no bookworm, no trixie a chance de ter problemas é grande.
 Para usar o trixie altere as configurações do Calamares tambem.
+
+## Modo de uso
+```
+$ git clone https://github.com/slackjeff/make-debian-live
+$ cd make-debian-live
+# bash make-kassandra.sh
+```
