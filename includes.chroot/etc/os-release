@@ -1,0 +1,7 @@
+PRETTY_NAME="Kassandra"
+NAME="Kassandra"
+VERSION_CODENAME="Átermis"
+ID=kassandra
+HOME_URL="https://www.debian.org/"
+SUPPORT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/"

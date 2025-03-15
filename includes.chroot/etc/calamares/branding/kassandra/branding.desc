@@ -1,0 +1,37 @@
+---
+componentName:   kassandra
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         Kassandra GNU/Linux
+    shortProductName:    Kassandra
+    version:             12
+    shortVersion:        12
+    versionedName:       Kassandra 12
+    shortVersionedName:  Kassandra 12
+    bootloaderEntryName: Kassandra
+    productUrl:          https://debian.org
+    supportUrl:          https://www.debian.org/support
+    knownIssuesUrl:      https://bugs.debian.org
+    releaseNotesUrl:     https://www.debian.org/releases/bookworm/releasenotes
+    donateUrl:           https://www.debian.org
+
+images:
+    productLogo:         "kassandra-logo.png"
+    productIcon:         "kassandra-logo.png"
+    productWelcome:      "welcome.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+   sidebarTextSelect:    "#292F34"
+
+slideshowAPI: 2

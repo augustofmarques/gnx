@@ -1,0 +1,12 @@
+#!/bin/bash
+#####################################################################
+# Autor: Jefferson Carneiro
+# Renomeie os arquivos .desktop de Debian para Kassandra.
+#####################################################################
+set -e
+
+####################################
+# Faça a troca.
+####################################
+sed -i -e 's|Debian|Kassandra|g' /usr/share/applications/install-debian.desktop
+sed -i -e 's|^ *Icon=install-debian|Icon=/usr/share/icons/default/calamares.png|' /usr/share/applications/install-debian.desktop
