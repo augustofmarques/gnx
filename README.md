@@ -3,6 +3,9 @@ Utilizo este script para criar minha própria distribuição com configurações
 É utilizado um script chamado live-build do próprio projeto Debian para fazer este processo. Todo processo é automatizado atráves do script make-kassandra.sh. Ao final é criado um sistema
 totalmente utilizável, com live-cd e com instalador calamares incluso.
 
+Veja o meu video:
+[![Watch the video](https://i9.ytimg.com/vi/1-B8OXjmzr0/maxresdefault.jpg?v=67d62afd&sqp=CKytgb8G&rs=AOn4CLAfrRyBz3OxgVqFeWkw8Xt2QNMrBg)](https://youtu.be/1-B8OXjmzr0)
+
 ### Arquivos
 * includes.chroot = Tudo que será incluso dentro do ambiente final.
 * bootloaders     = Bootloaders grub etc...
