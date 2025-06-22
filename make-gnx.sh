@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #####################################################################
 # AUTOR   : Jefferson Carneiro
-# PRG     : make-kassandra
+# PRG     : make-gnx
 # VERSAO  : 1.0
 # LICENCA : GPLv3
 #

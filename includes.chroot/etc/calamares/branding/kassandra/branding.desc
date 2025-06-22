@@ -1,5 +1,5 @@
 ---
-componentName:   kassandra
+componentName:   gnx
 welcomeStyleCalamares: true
 welcomeExpandingLogo: true
 windowExpanding: normal
@@ -7,13 +7,13 @@ windowSize: 800px,520px
 windowPlacement: center
 
 strings:
-    productName:         Kassandra GNU/Linux
-    shortProductName:    Kassandra
-    version:             12
-    shortVersion:        12
-    versionedName:       Kassandra 12
-    shortVersionedName:  Kassandra 12
-    bootloaderEntryName: Kassandra
+    productName:         gnx Linux
+    shortProductName:    gnx
+    version:             25
+    shortVersion:        25
+    versionedName:       gnx 25 Astra
+    shortVersionedName:  gnx 25
+    bootloaderEntryName: gnx
     productUrl:          https://debian.org
     supportUrl:          https://www.debian.org/support
     knownIssuesUrl:      https://bugs.debian.org
